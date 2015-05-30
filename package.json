@@ -1,0 +1,8 @@
+{
+  "name": "ws",
+  "version": "0.0.1",
+  "author": "dwallraff",
+  "dependencies": {
+    "ws": "0.7.2"
+  }
+}
