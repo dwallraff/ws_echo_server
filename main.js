@@ -6,5 +6,5 @@ wss.on('connection', function(ws) {
 	ws.on('message', function(message) {
 		ws.send(message);
 		});
-	ws.send('Simple WebSocket Echo Server');
+	ws.send('Simple WebSocket Echo Serveri1');
 });
